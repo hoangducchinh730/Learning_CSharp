@@ -1,4 +1,3 @@
-# Learning_CSharp
 # Learning_CSharp 🧠🚀
 
 Welcome to my C# learning repository! This is a personal collection of beginner-level exercises, mini projects, and code snippets created during my journey to master the C# programming language.
